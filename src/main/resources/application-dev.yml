@@ -35,3 +35,6 @@ spring:
     defer-datasource-initialization: true
 file:
   upload-dir: \\images
+logging:
+  level:
+    '[com.many.miniproject1]': DEBUG
